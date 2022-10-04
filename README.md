@@ -1,5 +1,5 @@
 # Emprestimo Service
-### Acessando ao H2
+### Acessando ao H2...
 ### - Lembrar:
 #### a. Criar um arquivo sql: data.sql
 #### b. Configurar o application.properties
